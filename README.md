@@ -1,2 +1,27 @@
 # Task-6---Sales-Trend-Analysis-Using-MySQL
-Sales Trend Analysis using MySQL to analyze monthly revenue and order volume with SQL aggregate functions such as SUM(), COUNT(), GROUP BY, and ORDER BY.
+
+## Objective
+Analyze monthly revenue and order volume using SQL aggregate functions.
+
+## Tools Used
+- MySQL Workbench
+- SQL
+
+## Dataset
+- online_sales.csv
+
+## Analysis Performed
+- Monthly Revenue Analysis
+- Monthly Order Volume Analysis
+- Top 3 Sales Months
+
+## SQL Concepts Used
+- SUM()
+- COUNT(DISTINCT)
+- GROUP BY
+- ORDER BY
+- YEAR()
+- MONTH()
+
+## Outcome
+Learned how to analyze sales trends, calculate revenue, and measure order volume using MySQL.
